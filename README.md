@@ -36,3 +36,7 @@ Um dos casos acima será necessário o uso de Interface.
   <li>Extraia o diretório;</li>
   <li>Abra na IDE;</li>
   <li>Execute o arquivo POOFazenda.java</li>
+  
+  
+ <b>UML</b>
+ Diagrama UML em POOFazenda.png

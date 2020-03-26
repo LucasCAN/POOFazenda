@@ -1,4 +1,4 @@
-<b>POOFazenda</b>
+[center]<b>POOFazenda</b>[/center]
 
 
 <b>RESUMO</b>

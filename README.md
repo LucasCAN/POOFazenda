@@ -1,4 +1,4 @@
-[center]<b>POOFazenda</b>[/center]
+<b>POOFazenda</b>
 
 
 <b>RESUMO</b>
@@ -38,9 +38,8 @@ Um dos casos acima será necessário o uso de Interface.
   <li>Abra na IDE;</li>
   <li>Execute o arquivo POOFazenda.java</li>
   
-  
-  
-  
+  <br>
+    
  <b>UML</b>
  
  Diagrama UML em POOFazenda.png

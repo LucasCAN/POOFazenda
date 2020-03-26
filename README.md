@@ -2,6 +2,7 @@
 
 
 <b>RESUMO</b>
+
 Solução que representa os animais de uma fazenda.
 
 Cada animal possui os seguintes atributos e ações:
@@ -39,4 +40,5 @@ Um dos casos acima será necessário o uso de Interface.
   
   
  <b>UML</b>
+ 
  Diagrama UML em POOFazenda.png
